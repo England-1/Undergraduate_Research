@@ -1,9 +1,7 @@
 # Research
----
 This repository contains jupyter notebooks utalizing the python programming language pertaining to my undergraduate thesis compleated in May of 2023 titled, "Precipitation Type in the High-Resolution Ensemble Forecast System during the February 17th & February 23rd, 2022, Winter Storms" - A Thesis Submitted to the University at Albany, State University of New York In Partial Fulfillment of the Requirements for the Degree of Bachelor of Science.
 
 ## Abstract
----
 Winter weather events with near-freezing surface temperatures are often associated with mixed surface precipitation types (p-types) and are shaped by synoptic, mesoscale, and microscale processes. The Winter Precipitation Type Research Multi-Scale Experiment 
 (WINTRE-MIX) focuses on how these processes influence the variability and predictability of p-type and amount under near-freezing surface conditions. Accurately predicting p-type in these conditions is a forecast challenge and can have large implications on aviation, transportation, and utilities. In operational meteorology, the High-Resolution Ensemble Forecast System (HREF) is commonly used, assisting forecasters in probabilistic forecasting. The High-Resolution Ensemble Forecast (HREF) system outputs ensemble products from a collection of high-resolution numerical weather prediction models. Each member of the forecast ensemble is distinct with respect to its combination of dynamical core, physics parameterizations, and initial/boundary conditions.
 
