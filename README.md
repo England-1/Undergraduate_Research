@@ -1,2 +1,2 @@
 # Research
-Repository to store all finished code from my research. 
+This repository contains jupyter notebooks utalizing the python programming language pertaining to my undergraduate thesis compleated in May of 2023 titled, "Precipitation Type in the High-Resolution Ensemble Forecast System during the February 17th & February 23rd, 2022, Winter Storms" - A Thesis Submitted to the University at Albany, State University of New York In Partial Fulfillment of the Requirements for the Degree of Bachelor of Science.
