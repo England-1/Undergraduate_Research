@@ -1,5 +1,5 @@
 # Research
-This repository contains jupyter notebooks utalizing the python programming language pertaining to my undergraduate thesis compleated in May of 2023 titled, "Precipitation Type in the High-Resolution Ensemble Forecast System during the February 17th & February 23rd, 2022, Winter Storms" - A Thesis Submitted to the University at Albany, State University of New York In Partial Fulfillment of the Requirements for the Degree of Bachelor of Science.
+The "research" repository contains jupyter notebooks written in the python programming language pertaining to my undergraduate thesis compleated in May of 2023 titled, "Precipitation Type in the High-Resolution Ensemble Forecast System during the February 17th & February 23rd, 2022, Winter Storms" - A Thesis Submitted to the University at Albany, State University of New York In Partial Fulfillment of the Requirements for the Degree of Bachelor of Science.
 
 ## Abstract
 Winter weather events with near-freezing surface temperatures are often associated with mixed surface precipitation types (p-types) and are shaped by synoptic, mesoscale, and microscale processes. The Winter Precipitation Type Research Multi-Scale Experiment 
