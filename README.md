@@ -1,13 +1,3 @@
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-
 # Research
 The "research" repository contains jupyter notebooks written in the python programming language pertaining to my undergraduate thesis compleated in May of 2023 titled, "Precipitation Type in the High-Resolution Ensemble Forecast System during the February 17th & February 23rd, 2022, Winter Storms" - A Thesis Submitted to the University at Albany, State University of New York In Partial Fulfillment of the Requirements for the Degree of Bachelor of Science.
 
